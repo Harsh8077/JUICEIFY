@@ -553,6 +553,7 @@ font-weight: bold;
   text-decoration: none;
   color: #fff;
   font-size: 24px;
+  font-family: 'Fredoka', sans-serif;
 }
 .nav-item4{
   position: absolute;
@@ -560,6 +561,7 @@ font-weight: bold;
   text-decoration: none;
   color: #fff;
   font-size: 24px;
+  font-family: 'Fredoka', sans-serif;
 }
 #title a:hover{
   color: #fcb045;
